@@ -36,13 +36,8 @@
   </a>
 </p>
 
-###
 
-<h2 align="left">🛠 Tools:</h2>
-
-###
-
-## 🛠 Languages and Technologies:
+## 🛠 Tech Stacks:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
