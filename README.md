@@ -11,9 +11,9 @@
 ###
 
 <ul align="left">
-  <li>📊 Passionate about Data Science, Analytics & Business Intelligence</li>
+  <li>📊 Passionate about Data Analysis, Business Intelligence, and Data Visualization</li>
   <li>🛠 Skilled in Data Cleaning, EDA, SQL, Python & BI Tools</li>
-  <li>📈 Experienced in Forecasting, Statistical Analysis & Data Visualization</li>
+  <li>📈 Experienced in Data Processing, Trend Analysis & Business Insights</li>
   <li>🚀 Currently improving Machine Learning & AI skills</li>
   <li>⚡ Fun fact: Data + Insights = 🚀📊</li>
 </ul>
@@ -25,20 +25,20 @@
 ###
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/mdhikarafi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://instagram.com/dhika_rafi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:dhikarafiwork@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ###
 
-<h2 align="left">🛠 Tech Stack:</h2>
+<h2 align="left">🛠 Tools:</h2>
 
 ###
 
@@ -52,6 +52,7 @@
 
 ###
 
-<h2 align="left">💡 Let's Analyze Data & Gain Insights!</h2>
+<h2 align="left">📊 Data-Driven Decision Making!</h2>
 
-<p align="left">Turning numbers into actionable decisions! 📈📊</p>
+<p align="left">Transforming raw data into meaningful insights for strategic growth! 🚀📊</p>
+
