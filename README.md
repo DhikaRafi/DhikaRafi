@@ -45,24 +45,22 @@
 ## 🛠 Tools & Technologies:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
   <img width="12"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" height="50" alt="Tableau"/>
   <img width="12"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
   <img width="12"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-type-excel/excel-original.svg" height="50" alt="Excel"/>
   <img width="12"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Sheets_logo_%282014-2020%29.svg" height="50" alt="Google Sheets"/>
   <img width="12"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white" alt="Looker Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Looker_Studio_Logo_2022.png" height="50" alt="Looker Studio"/>
   <img width="12"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva-icon.png" height="50" alt="Canva"/>
 </p>
-
-
 
 ###
 
