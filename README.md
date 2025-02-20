@@ -42,14 +42,14 @@
 
 ###
 
-## 🛠 Language & Tools:
+## 🛠 Languages and Technologies:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" height="50" alt="Tableau"/>
+  <img src="https://your-tableau-image-url.com" height="50" alt="Tableau"/>
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
   <img width="12"/>
@@ -61,6 +61,7 @@
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva-icon.png" height="50" alt="Canva"/>
 </p>
+
 
 ###
 
