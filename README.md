@@ -52,17 +52,6 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
-###
-
 <h2 align="left">💡 Let's Analyze Data & Gain Insights!</h2>
 
 <p align="left">Turning numbers into actionable decisions! 📈📊</p>
