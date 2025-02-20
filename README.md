@@ -49,7 +49,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
   <img width="12"/>
-  <img src="[![image](https://github.com/user-attachments/assets/8520bf49-b004-4970-923b-33dfad365c83](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16_QHxTegNuyeOANXFLgKqBz3_LlRmdVyRg&s))
+  <img src="https://github.com/user-attachments/assets/140c575b-e698-41a2-8b75-d6f0f16fcd7f
 " height="50" alt="Tableau"/>
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
