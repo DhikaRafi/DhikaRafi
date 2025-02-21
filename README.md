@@ -1,15 +1,10 @@
 <h1 align="left">Hi 👋, I'm Dhika Rafi</h1>
 
-###
-
 <p align="left">A Passionate Data Analyst from Indonesia 📊</p>
 
-###
+---
 
-<h2 align="left">👤 About Me:</h2>
-
-###
-
+## 👤 About Me:
 <ul align="left">
   <li>📊 Passionate about Data Analysis, Business Intelligence, and Data Visualization</li>
   <li>🛠 Skilled in Data Cleaning, EDA, SQL, Python & BI Tools</li>
@@ -18,12 +13,9 @@
   <li>⚡ Fun fact: Data + Insights = 🚀📊</li>
 </ul>
 
-###
+---
 
-<h2 align="left">📬 Connect with Me:</h2>
-
-###
-
+## 📬 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/mdhikarafi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -36,8 +28,10 @@
   </a>
 </p>
 
+---
 
 ## 🛠 Tech Stacks:
+> *Tools & Libraries I use for Data Analysis, Business Intelligence, and Machine Learning*
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
@@ -52,13 +46,24 @@
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Looker_Studio_Logo_2022.png" height="50" alt="Looker Studio"/>
   <img width="12"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva-icon.png](https://ik.imagekit.io/1aswtnddf/canva.png?updatedAt=1740136826143)" height="50" alt="Canva"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva-icon.png" height="50" alt="Canva"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-Learn"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" alt="Keras"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="50" alt="Seaborn"/>
 </p>
 
+---
 
-###
-
-<h2 align="left">📊 Data-Driven Decision Making!</h2>
-
-<p align="left">Transforming raw data into meaningful insights for strategic growth! 🚀📊</p>
-
+## 📊 Data-Driven Decision Making!
+> Transforming raw data into meaningful insights for strategic growth! 🚀📊
