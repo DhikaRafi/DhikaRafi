@@ -44,8 +44,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
   <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/140c575b-e698-41a2-8b75-d6f0f16fcd7f
-" height="50" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" height="50" alt="Tableau"/>
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
   <img width="12"/>
@@ -55,7 +54,6 @@
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva-icon.png" height="50" alt="Canva"/>
 </p>
-
 
 
 ###
