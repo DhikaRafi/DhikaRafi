@@ -31,7 +31,7 @@
 ---
 
 ## 🛠 Tech Stacks:
-> *Tools I use for Data Analysis & Business Intelligence*
+> *Tools & Libraries I use for Data Analysis, Business Intelligence, and Machine Learning*
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
@@ -41,7 +41,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
 </p>
 
-### **Other Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
@@ -66,8 +65,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="50" alt="Seaborn"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Seaborn-3C5280?style=for-the-badge&logoColor=white" alt="Seaborn"/>
 </p>
 
 ---
