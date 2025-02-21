@@ -52,7 +52,7 @@
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Looker_Studio_Logo_2022.png" height="50" alt="Looker Studio"/>
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva-icon.png" height="50" alt="Canva"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva-icon.png](https://ik.imagekit.io/1aswtnddf/canva.png?updatedAt=1740136826143)" height="50" alt="Canva"/>
 </p>
 
 
